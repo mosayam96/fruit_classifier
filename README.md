@@ -1,2 +1,2 @@
 # fruit_classifier
-Baseline model for fresh rotten fruit classifier.
+Baseline model for fresh and rotten fruit classifier.
